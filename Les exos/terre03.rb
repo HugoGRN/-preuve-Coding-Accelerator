@@ -7,4 +7,3 @@ alphabet = ("#{letter}".."z")           # je définis l'alphabet à partir de le
 for c in alphabet                       # la boucle envoie tout les éléments de alphabet dans c
     print c                             # imprime tout les éléments de c
 end
-
